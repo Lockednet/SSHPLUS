@@ -1,4 +1,4 @@
-# SSHPLUS
+# LOCKED_SSH
 
 apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/Lockednet/SSHPLUS/main/Plus && chmod 777 Plus && ./Plus
 

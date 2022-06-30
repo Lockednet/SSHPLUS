@@ -13,7 +13,7 @@ except:
 PASS = ''
 BUFLEN = 8196 * 8
 TIMEOUT = 60
-MSG = 'SSHPLUS'
+MSG = 'LOCKED SSH'
 DEFAULT_HOST = '0.0.0.0:1194'
 RESPONSE = "HTTP/1.1 101 " + str(MSG) + "\r\n\r\n"
 
